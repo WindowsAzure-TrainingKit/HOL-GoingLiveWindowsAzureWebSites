@@ -303,7 +303,7 @@ For simplicity of the lab, you will use a script located in the asset folder tha
 
 1. Open **Developer Command Prompt**.
 
-1. Browse to **Source/Asset/certificates** and execute the **CreateCert** script in the **Developer Command Prompt**.
+1. Browse to **Source/Assets/certificates** and execute the **CreateCert** script in the **Developer Command Prompt**.
 
 1. Add the **Private Key** password in the **Create Private Key Password** window and click **OK**.
 

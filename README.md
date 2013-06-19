@@ -6,9 +6,7 @@
 
 Hands-On Labs are sets of step-by-step guides that are designed to help you learn how to use key Windows Azure services and features. Each lab provides instructions to guide you through the process of developing a complete application.
 
-Windows Azure provides a friendly subdomain on the azurewebsites.net domain so your users can access your web site using a URL like http://<mysite>.azurewebsites.net. However, if you configure your web sites for shared or standard mode, you can map your web site to your own domain name.
-
-Secure Socket Layer (SSL) encryption is the most commonly used method of securing data sent across the internet, and assures visitors to your site that their transactions with your site are secure. This common task discusses how to enable SSL for a Windows Azure Web Site.
+In this hands-on lab, 
 
 > **Note:** You can download the latest build of the Windows Azure Training Kit which includes a tested version of this HOL from here: http://bit.ly/WindowsAzureTK.
 
