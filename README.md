@@ -6,7 +6,7 @@
 
 Hands-On Labs are sets of step-by-step guides that are designed to help you learn how to use key Windows Azure services and features. Each lab provides instructions to guide you through the process of developing a complete application.
 
-In this hands-on lab, 
+In this Hands-On Lab you will configure a custom domain and secure socket layer on a web site application, redirecting traffic from HTTP to HTTPS endpoints.
 
 > **Note:** You can download the latest build of the Windows Azure Training Kit which includes a tested version of this HOL from here: http://bit.ly/WindowsAzureTK.
 

@@ -9,7 +9,7 @@
     <Email></Email>
     <Name>wwegner</Name>
   </Author>
-  <Description>In this hands-on lab, you will explore the basic elements of a Windows Azure Cloud Service by creating a simple GuestBook application that demonstrates many features of web and worker roles, blob storage, table storage, and queues. </Description>
+  <Description>In this Hands-On Lab you will configure a custom domain and secure socket layer on a web site application, redirecting traffic from HTTP to HTTPS endpoints.</Description>
   <Document ConversionType="Html">.\HOL.md</Document>
   <Title>Going Live with Windows Azure Web Sites</Title>
   <Version>1.0.0</Version>
