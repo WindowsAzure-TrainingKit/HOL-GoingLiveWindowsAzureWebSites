@@ -512,7 +512,7 @@ In this exercise you will create a new MVC 4 web application. Once created, you 
 
 	_Output Window_
 
-1. Open Internet Explorer if the deploy didn't and browse to **http://www.[YOUR-DOMAIN-NAME].com**. Check how you are redirected to **https://www.[YOUR-DOMAIN-NAME].com**
+1. Open Internet Explorer if the deploy didn't and browse to **http://www.[YOUR-DOMAIN-NAME].com**. Check how you are redirected to **https://www.[YOUR-DOMAIN-NAME].com** after clicking **Continue to this website (not recommended)**.
 
 	![Default MVC4 Solution deployed to Azure WebSites](Images/default-mvc4-solution-deployed-to-azure-websi.png?raw=true "Default MVC4 Solution deployed to Azure WebSites")
 
