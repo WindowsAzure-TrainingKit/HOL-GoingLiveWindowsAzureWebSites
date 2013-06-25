@@ -303,7 +303,7 @@ For simplicity of the lab, you will use a script located in the asset folder tha
 
 1. Open **Developer Command Prompt**.
 
-	>**Note**: Developer Command Prompt is included in the Windows SDK for Windows 7. It's also installed with Visual Studio Express for desktop and in Visual Studio Professional and Ultimate. For more information, [click here](http://msdn.microsoft.com/en-us/windowsserver/bb980924.aspx)
+	>**Note**: Developer Command Prompt is included in Visual Studio Express for Desktop, Professional and Ultimate. You will use Developer Commnand Prompt to run MakeCert command to create an X.509 certificate. For more information on MakeCert [click here](http://msdn.microsoft.com/en-us/library/windows/desktop/aa386968\(v=vs.85\).aspx)
 
 1. Browse to **Source/Assets/certificates** and execute the **CreateCert** script in the **Developer Command Prompt**.
 
