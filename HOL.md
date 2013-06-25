@@ -303,6 +303,8 @@ For simplicity of the lab, you will use a script located in the asset folder tha
 
 1. Open **Developer Command Prompt**.
 
+	>**Note**: Developer Command Prompt is included in the Windows SDK for Windows 7. It's also installed with Visual Studio Express for desktop and in Visual Studio Professional and Ultimate. For more information, [click here](http://msdn.microsoft.com/en-us/windowsserver/bb980924.aspx)
+
 1. Browse to **Source/Assets/certificates** and execute the **CreateCert** script in the **Developer Command Prompt**.
 
 1. Add the **Private Key** password in the **Create Private Key Password** window and click **OK**.
